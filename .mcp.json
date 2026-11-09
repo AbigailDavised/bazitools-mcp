@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bazitools": {
+      "type": "http",
+      "url": "https://bazitools.com/api/mcp"
+    }
+  }
+}
