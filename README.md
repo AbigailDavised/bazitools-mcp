@@ -1,4 +1,6 @@
-# ☯️ BaziTools MCP Server (`com.bazitools/mcp`)
+
+
+[![mcptry](https://mcptry.com/badge/com.bazitools/mcp)](https://mcptry.com/servers/com.bazitools/mcp)
 
 [![BaziTools Banner](./assets/cover.png)](https://bazitools.com)
 
