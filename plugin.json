@@ -1,7 +1,8 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "bazitools",
   "version": "1.0.2",
-  "description": "Official stateless MCP server for BaziTools.com — Four Pillars (BaZi) true solar time calculator & classical Shijing/Tang poetic Chinese name generator.",
+  "description": "True Solar Time Four Pillars (BaZi) astronomical chart calculator and classical poetic Chinese name generator.",
   "homepage": "https://bazitools.com",
   "repository": "https://github.com/AbigailDavised/bazitools-mcp",
   "license": "MIT",
@@ -14,8 +15,17 @@
     "bazi",
     "four-pillars",
     "chinese-name-generator",
-    "astronomy",
+    "solar-time-astronomy",
     "shijing",
     "mcp"
-  ]
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "bazitools": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
