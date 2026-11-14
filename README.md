@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.bazitools/mcp)](https://mcptry.com/servers/com.bazitools/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/bazitools-true-solar-time-bazi-four-pillars-c-mcp/card.svg)](https://mcprush.com/to/bazitools-true-solar-time-bazi-four-pillars-c-mcp?ref=badge)
 
 [![BaziTools Banner](./assets/cover.png)](https://bazitools.com)
 
